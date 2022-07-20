@@ -4,7 +4,7 @@
 # 2/5 = 0.400000 and 2/5 = 0.400000 and 1/5 = 0.200000
 # =============================== HackerRankProblem ========================================
 #Saikt
-
+# Saikat2
 import math
 import os
 import random
