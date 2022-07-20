@@ -18,3 +18,4 @@ def lonelyinteger(a):
     return arr
 
 print (lonelyinteger(a))
+# 3rd change
