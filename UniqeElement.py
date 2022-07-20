@@ -5,6 +5,7 @@
 # The unique element is 4 .
 # Print Unique element
 # ===========================Hacker Rank Day 1 one Problem======================================
+# iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 a = [1, 2, 3, 4, 3, 2, 1, 5, 8, 7, 9, 10, 7]
 
 
