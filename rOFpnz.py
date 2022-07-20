@@ -3,7 +3,7 @@
 # There are n = 5  elements, two positive, two negative and one zero. Their ratios are
 # 2/5 = 0.400000 and 2/5 = 0.400000 and 1/5 = 0.200000
 # =============================== HackerRankProblem ========================================
-
+#Saikt
 
 import math
 import os
