@@ -1,4 +1,5 @@
 # change b2
+# change b2 2
 f = open('arr2D.text','r')
 count = 0
 while(f.readline()):
