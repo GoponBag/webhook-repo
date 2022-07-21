@@ -6,6 +6,7 @@
 # Print Unique element
 # ===========================Hacker Rank Day 1 one Problem======================================
 # iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+# change by jadav branch
 a = [1, 2, 3, 4, 3, 2, 1, 5, 8, 7, 9, 10, 7]
 
 
