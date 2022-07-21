@@ -15,9 +15,9 @@ def api_gh_message():
         data = json.loads(a)
         print(type(data))
         # print(d)
-        for key, values in data.items():
-            
-            print(key, " : ", values)
+        # for key, values in data.items():
+        #     print(key, " : ", values)
+        print(data["commits"][0]['name'],data['commits'][0]['username'],data['ref'],data['commits'][0]['timestamp'])
         print("=================================================================================================")
         return json.dumps(request.json)
 
