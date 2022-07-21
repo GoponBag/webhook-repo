@@ -14,7 +14,7 @@ def api_gh_message():
         a = json.dumps(request.json)
         data = json.loads(a)
         print(type(data))
-        print(data)
+        print(a)
         print("###############################################################################################")
         # for key, values in data.items():
         #     print(key, " : ", values)
