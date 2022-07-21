@@ -14,14 +14,31 @@ def api_gh_message():
         a = json.dumps(request.json)
         data = json.loads(a)
         print(type(data))
-        print(a)
         print("###############################################################################################")
         # for key, values in data.items():
         #     print(key, " : ", values)
-        print(data["commits"][0]['author']['username'])
-        print(data['ref'])
-        print(data['commits'][0]['timestamp'])
-        print("=================================================================================================")
+        # if data["commits"] :
+        #     print(data["commits"][0]['author']['username'])
+        #     print(data['ref'])
+        #     print(data['commits'][0]['timestamp'])
+        #     print("commit===========================================================================================")
+        # if data["pull_request"]:
+        #     print("AUTHOR")
+        #     print(data["pull_request"]["base"]['label'])
+        #     print("TO -" )
+        #     print(data["pull_request"]["head"]["ref"]  )
+        #     print("FROM - ")
+        #     print(data["pull_request"]["base"]["ref"])
+        #     print( 'Time')
+        #     print(data["pull_request"]["updated_at"])
+        #     print('Pull Request ==============================================================================================')
+        # else:
+        #     print (a)
+        
+        
+
+        print( a )
+        print("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
         return json.dumps(request.json)
 
 if __name__ == '__main__':
