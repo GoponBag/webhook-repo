@@ -3,7 +3,7 @@
 # Example
 # arr = [1,2,3,4,3,2,1]
 # The unique element is 4 .
-# Print Unique element 565
+# Print Unique element 565 ijfkkf
 # ===========================Hacker Rank Day 1 one Problem======================================
 # iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 # change by B1
